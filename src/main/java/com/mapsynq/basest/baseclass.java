@@ -19,7 +19,6 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.Reporter;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -67,6 +66,7 @@ public class baseclass {
         if (WEBDRIVER_MODE_LOCAL.equals(prop.getProperty("LOCAL_WEBDRIVER_MODE"))) {
             switch (browserName) {
                 case CHROME:
+                    //WebDriverManager.chromedriver().setup();
                     ChromeBrowser chromebrowser = new ChromeBrowser();
                     driver = chromebrowser.getChromeDriver(chromebrowser.getChromeOptions());
                     break;
@@ -87,6 +87,7 @@ public class baseclass {
         } else if (WEBDRIVER_MODE_GRID.equals(prop.getProperty("GRID_WEBDRIVER_MODE"))) {
 
             if (browserName.equalsIgnoreCase("chrome")) {
+                //WebDriverManager.chromedriver().setup();
                 ChromeOptions option = new ChromeOptions();
                 DesiredCapabilities capability = DesiredCapabilities.chrome();
                 capability.setBrowserName("chrome");
@@ -123,10 +124,10 @@ public class baseclass {
             }
 
         }
-        e_driver = new EventFiringWebDriver(driver);
-        eventListener = new WebEventListener();
-        e_driver.register(eventListener);
-        driver = e_driver;
+        //e_driver = new EventFiringWebDriver(driver);
+     //   eventListener = new WebEventListener();
+//        e_driver.register(eventListener);
+       // driver = e_driver;
         driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
         driver.get(prop.getProperty("URL"));
