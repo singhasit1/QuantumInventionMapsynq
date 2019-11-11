@@ -148,7 +148,7 @@
               <include>com.mapsynq.runner</include>
             </includes>
             <testFailureIgnore>false</testFailureIgnore>
-            <skipTests>false</skipTests>
+            <skipTests>true</skipTests>
           </configuration>
         </plugin>
         <plugin>
