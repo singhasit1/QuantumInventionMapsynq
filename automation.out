@@ -54,3 +54,33 @@
 2019-11-10 08:11:851 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
 2019-11-10 08:11:834 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
 2019-11-10 08:11:844 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-11-16 07:11:935 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-11-16 07:11:801 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-11-16 07:11:973 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-11-16 07:11:719 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-11-16 07:11:735 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-11-16 07:11:791 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-11-16 07:11:524 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-11-16 07:11:618 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-11-16 07:11:324 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-11-16 07:11:339 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-11-16 07:11:322 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-11-16 07:11:381 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-11-16 07:11:599 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-11-16 07:11:31 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-11-16 07:11:46 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-11-16 07:11:605 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-11-16 07:11:160 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-11-16 07:11:270 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-11-16 07:11:515 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-11-16 07:11:515 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-11-16 10:11:912 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-11-16 10:11:866 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-11-16 10:11:325 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-11-16 10:11:528 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-11-16 10:11:534 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-11-16 10:11:443 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-11-16 10:11:292 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-11-16 10:11:571 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-11-16 10:11:325 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-11-16 10:11:330 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia

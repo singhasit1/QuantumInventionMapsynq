@@ -12,7 +12,8 @@ public class LoggerHelper {
         if(root){
             return Logger.getLogger(cls);
         }
-        PropertyConfigurator.configure(ResourceHelper.getResourcePath("src/main/java/com/mapsynq/helper/resource/log4j.properties"));
+       // PropertyConfigurator.configure(ResourceHelper.getResourcePath("src/main/java/com/mapsynq/helper/resource/log4j.properties"));
+      //  PropertyConfigurator.configure(ResourceHelper.getResourcePath("src\\test\\log4j.xml"));
         root = true;
         return Logger.getLogger(cls);
     }

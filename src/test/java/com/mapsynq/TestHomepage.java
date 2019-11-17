@@ -8,9 +8,11 @@ import com.mapsynq.pages.Homepage;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import org.apache.log4j.Logger;
 import org.junit.Assert;
 
 public class TestHomepage extends baseclass {
+    public static final Logger log = Logger.getLogger(TestHomepage.class.getName());
 
     Homepage homepage = new Homepage(); ;
     CameraPages camerapages=new CameraPages();;
@@ -20,6 +22,7 @@ public class TestHomepage extends baseclass {
     @Given("^Launch Browser And Application$")
     public void launch_Browser_And_Application() throws Throwable {
         initialization();
+
 
 
     }

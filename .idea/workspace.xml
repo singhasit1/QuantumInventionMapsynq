@@ -2,7 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e58e88b0-bd62-4903-a9c7-49c4d11b8219" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_api_1_0_BETA6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_jackson_1_0_BETA6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_pojo_1_0_BETA6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_descriptions_javadoc_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jooq_joor_0_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08afbef5-8094-49b1-8029-9b4699256ca3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2cd5576c-4ac4-47b0-b3f8-0f799d9d28fd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30e38320-78be-41a1-bc05-9a3814ec9df8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33c6ed93-9c47-46fb-ab7b-3e9f414167a2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f844509-a5ef-4cf5-829e-052a971a82a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/52c9c5e3-f08d-4010-91d8-c182fcd2aeeb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/540e264f-9941-4c89-bd9d-8f35b9c8623e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e7df0a7-5229-4d14-a3e4-61d8832d8e61-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ec5867b-4085-4781-911f-bcde24c83398-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64b454d1-6425-4ba4-bc87-3e74d7827f5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6acfae96-f67b-4e19-ac2b-bba959c1be85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/729766bf-da1f-4448-816a-ec11c0b158ce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7616be68-ef4a-48d7-b8f4-2243be0bacd2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7c657e6f-003b-42df-aab8-f62851c139e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e1f4de6-27cf-46e0-be15-5dbd8394564a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84592bca-ea9f-4d26-bce6-a5415ea4e0d5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/97271810-0b75-4600-a679-1acaa933cfcf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c279d903-8375-4bda-94a3-9127119e5c66-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c77535c5-5afb-4879-ac8d-ece09170affc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cbe63bba-9a57-4724-8621-5a90265ac95e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd8a7e2c-be2f-4509-9c39-4952be12bdcc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8597401-d188-4a4e-8fd8-417d2ec3a7c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8b10655-9a0c-4404-a9d8-cfbb22c54c9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9984a93-2965-4c74-82d1-0eb0c2629b30-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eac55517-7229-424a-9e60-7f2d0edeecaa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ec3c9f92-f979-4f0c-9d46-fc1639f5722a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/faa89fe0-a15b-4ce6-b4fb-c97cd60c6aa1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ffd44bf3-4add-40a7-b1d0-148f29c7297b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestNgRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mapsynq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mapsynq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation.out" beforeDir="false" afterPath="$PROJECT_DIR$/automation.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsynq/basest/baseclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/basest/baseclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsynq/helper/logger/LoggerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/helper/logger/LoggerHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestDirections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestDirections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestHomepage.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,18 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>onException</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/maven" />
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.3.9" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -37,24 +88,22 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
+  <component name="ProjectId" id="1ThWWUekQ9ohbJeJNi9lybw5D4Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Agency portal" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asit\IdeaProjects\QuantumInventionMapsynq\src\test" />
       <recent name="D:\QuantumInvention\Mapsynq\src\test\resources\Features" />
     </key>
   </component>
@@ -70,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.TestNgRunner">
     <configuration default="true" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -160,6 +209,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/Asit/IdeaProjects/QuantumInventionMapsynq/src/TestNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mapsynq" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/TestNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mapsynq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mapsynq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mapsynq" />
+      <option name="MAIN_CLASS_NAME" value="com.mapsynq.TestNgRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -180,6 +258,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestNgRunner" />
+        <item itemvalue="TestNG.C:/Users/Asit/IdeaProjects/QuantumInventionMapsynq/src/TestNg.xml" />
         <item itemvalue="JUnit.runner" />
       </list>
     </recent_temporary>
@@ -189,7 +269,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78ebd487-9181-4dc3-8530-6e08c25b4720" name="Default" comment="" />
+      <changelist id="e58e88b0-bd62-4903-a9c7-49c4d11b8219" name="Default Changelist" comment="" />
       <created>1548060454269</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -209,52 +289,42 @@
       <option name="project" value="LOCAL" />
       <updated>1573490920790</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change skip test =true">
+      <created>1573491818145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573491818145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Feature__Homepage - 2019.01.21 at 18h 24m 22s.xml">
-      <configuration name="Feature: Homepage" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Homepage - 2019.01.21 at 18h 25m 41s.xml">
-      <configuration name="Feature: Homepage" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Homepage - 2019.01.21 at 18h 27m 10s.xml">
-      <configuration name="Feature: Homepage" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Homepage - 2019.01.21 at 18h 28m 23s.xml">
-      <configuration name="Feature: Homepage" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Runner - 2019.01.21 at 16h 31m 09s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.01.21 at 16h 32m 04s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.01.21 at 16h 37m 14s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Scenario__Verify_Applicaion_Logo - 2019.01.21 at 18h 23m 51s.xml">
-      <configuration name="Scenario: Verify Applicaion Logo" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="runner - 2019.01.21 at 18h 09m 17s.xml">
-      <configuration name="runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="runner - 2019.01.21 at 18h 30m 43s.xml">
-      <configuration name="runner" configurationId="JUnit" />
-    </history-entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="LOO" />
     <MESSAGE value="Add new class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new class" />
+    <MESSAGE value="change skip test =true" />
+    <option name="LAST_COMMIT_MESSAGE" value="change skip test =true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/mapsynq/TestHomepage.java</url>
-          <line>45</line>
+          <line>48</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

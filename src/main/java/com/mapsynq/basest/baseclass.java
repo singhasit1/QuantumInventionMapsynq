@@ -9,8 +9,10 @@ import com.mapsynq.helper.wait.WaitHelper;
 import com.mapsynq.webeventlistener.WebEventListener;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
@@ -67,8 +69,10 @@ public class baseclass {
             switch (browserName) {
                 case CHROME:
                     //WebDriverManager.chromedriver().setup();
-                    ChromeBrowser chromebrowser = new ChromeBrowser();
-                    driver = chromebrowser.getChromeDriver(chromebrowser.getChromeOptions());
+            /*        ChromeBrowser chromebrowser = new ChromeBrowser();
+                    driver = chromebrowser.getChromeDriver(chromebrowser.getChromeOptions());*/
+                    WebDriverManager.chromedriver().setup();
+                     driver = new ChromeDriver();
                     break;
                 case FIREFOX:
                     FirefoxBrowser firefoxbrowser = new FirefoxBrowser();
